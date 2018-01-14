@@ -1,6 +1,6 @@
 # Tor's uoffisielle ukesoppgaver for Programutvikling (HioA)
 ## Uke 1 - Collections
-**Generiske** klasser som dreier som om å håndtere **dynamisk data**.
+**Generiske** klasser som dreier seg om å håndtere **dynamisk data**.
 
 [1. List\<T\> og ArrayList\<T\>](https://github.com/Nudua/programutvikling/tree/master/uke1/list.md)
 
