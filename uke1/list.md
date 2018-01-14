@@ -66,6 +66,7 @@ public class NameCollection {
 
     public NameCollection() {
         // Opprett en ny liste og sett den til 'names' variabelen.
+
     }
 
     // Legg til et nytt element i listen names
@@ -121,7 +122,7 @@ public class NameCollection {
 
     // Denne metoden skal returnere en ny 'List<String>' med navn som kun starter på 'name'.
     // *Hint: .startsWith
-    public void getNamesThatStartsWith(String name) {
+    public void getNamesThatStartsWith(String otherName) {
 
     }
 
