@@ -31,7 +31,9 @@ wasAdded = floatSet.add(f);
 Andre nyttige metoder for et Set: **containsAll()**, **toArray()**, **isEmpty()**, **clear()**, og **stream()**.
 
 Tips: Bruk **Integer** når du skal bruke **int**. **Float** for **float**, **Double** for **double** osv.
-*Dette er fordi generiske klasser ikke støtter primitive datatyper direkte.*
+
+
+*Dette er fordi generiske klasser ikke støtter primitive datatyper direkte.*  
 
 ## Oppgaver
 Fyll inn kode i klassen hvor det mangler.
