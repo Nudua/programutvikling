@@ -1,7 +1,5 @@
 # Tor's uoffisielle ukesoppgaver for Programutvikling (HioA/OsloMet)
-## Uke 1 - Collections - Del 1 - List
-
-### List\<T\>, ArrayList\<T\>
+## Uke 1 - List\<T\>, ArrayList\<T\>
 `List<T>` er en samling av data med en dynamisk størrelse.
 Denne klassen er **generisk**, noe som betyr at den kan brukes med alle referansetyper. (klasser/objekter)
 
@@ -138,3 +136,4 @@ public class NameCollection {
 Fasit: [NameCollection.java](http://nudua.com/files/NameCollection.java) (Ikke se før du har prøvd)
 
 
+# [Neste Side: Set](https://github.com/Nudua/programutvikling/blob/master/uke1/set.md) #
