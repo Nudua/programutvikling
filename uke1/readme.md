@@ -1,11 +1,11 @@
 # Tor's uoffisielle ukesoppgaver for Programutvikling (HioA/OsloMet)
 
 ## Uke 1 - Collections
+**Generiske** klasser som dreier som om å håndtere **dynamisk data**.
 
-1. [List](https://github.com/Nudua/programutvikling/tree/master/uke1/list.md)
-2. [Set](https://github.com/Nudua/programutvikling/tree/master/uke1/set.md)
-3. [LinkedList og TreeList](https://github.com/Nudua/programutvikling/tree/master/uke1/other.md)
-
+[List\<T\> og ArrayList\<T\>](https://github.com/Nudua/programutvikling/tree/master/uke1/list.md)
+[Set\<T\>](https://github.com/Nudua/programutvikling/tree/master/uke1/set.md)
+[LinkedList og TreeList](https://github.com/Nudua/programutvikling/tree/master/uke1/other.md)
 
 ## Uke 2 - Filebehandling
 
