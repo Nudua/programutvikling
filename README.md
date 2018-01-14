@@ -1,4 +1,4 @@
-# Tor's uoffisielle ukesoppgaver for Programutvikling (HioA/OsloMet)
+# Tor's uoffisielle ukesoppgaver for Programutvikling (HioA)
 ## Uke 1 - Collections
 **Generiske** klasser som dreier som om å håndtere **dynamisk data**.
 

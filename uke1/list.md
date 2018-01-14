@@ -1,6 +1,7 @@
-# Tor's uoffisielle ukesoppgaver for Programutvikling (HioA/OsloMet)
+# Tor's uoffisielle ukesoppgaver for Programutvikling (HiOA)
 ## Uke 1 - List\<T\>, ArrayList\<T\>
 `List<T>` er en samling av data med en dynamisk størrelse.
+
 Denne klassen er **generisk**, noe som betyr at den kan brukes med alle referansetyper. (klasser/objekter)
 
 ```java
@@ -52,6 +53,7 @@ int index = numberList.indexOf(42);
 Andre nyttige metoder på en liste: **set()**, **toArray()**, **isEmpty()**, **clear()**, **lastIndexOf()** og **stream()**.
 
 Tips: Bruk **Integer** når du skal bruke **int**. **Float** for **float**, **Double** for **double** osv.
+
 *Dette er fordi generiske klasser ikke støtter primitive datatyper direkte.*
 
 ## Oppgaver
@@ -134,7 +136,7 @@ public class NameCollection {
 
 }
 ```
-Fasit: [NameCollection.java](http://nudua.com/files/NameCollection.java) (Ikke se før du har prøvd)
+Løsningsforslag: [NameSet.java](http://nudua.com/files/NameCollection.java) (Ikke se før du har prøvd!)
 
 
 # [Neste Side: Set](https://github.com/Nudua/programutvikling/blob/master/uke1/set.md) #

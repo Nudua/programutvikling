@@ -8,7 +8,7 @@ public class NameSet {
 
     private Set<String> names;
     public NameSet() {
-        // Opprett et nytt set av typen String her
+        // Opprett et nytt set av typen String her og sett den til 'names' variabelen.
     }
 
     // Denne metoden skal legge til 'name' til settet 'names'

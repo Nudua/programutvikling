@@ -1,6 +1,6 @@
-# Tor's uoffisielle ukesoppgaver for Programutvikling (HioA/OsloMet)
+# Tor's uoffisielle ukesoppgaver for Programutvikling (HiOA)
 ## Uke 1 - Set\<T\>, HashSet\<T\>
-`Set<T>` er en samling av data med en dynamisk størrelse, denne er svært like `List<T>` med enkelte unntak.
+`Set<T>` er en samling av data med en dynamisk størrelse, denne er svært lik `List<T>` med enkelte unntak.
 
 Denne klassen er **generisk**, noe som betyr at den kan brukes med alle referansetyper. (klasser/objekter)
 
@@ -37,7 +37,9 @@ Tips: Bruk **Integer** når du skal bruke **int**. **Float** for **float**, **Do
 
 ## Oppgaver
 Fyll inn kode i klassen hvor det mangler.
+
 Det anbefales sterkt å laste ned filen og legge den inn IntelliJ (eller Eclipse).
+
 [NameSet.java](http://nudua.com/files/NameCollection.java) (Lagre som)
 
 ```java
@@ -45,7 +47,7 @@ public class NameSet {
 
     private Set<String> names;
     public NameSet() {
-        // Opprett et nytt set av typen String her
+	// Opprett et nytt set av typen String her og sett den til 'names' variabelen.
     }
 
     // Denne metoden skal legge til 'name' til settet 'names'
@@ -81,7 +83,7 @@ public class NameSet {
     }
 }
 ```
-Fasit: [NameSet.java](http://nudua.com/files/NameCollection.java) (Ikke se før du har prøvd)
+Løsningsforslag: [NameSet.java](http://nudua.com/files/NameCollection.java) (Ikke se før du har prøvd!)
 
 
 # [Neste Side: Map](https://github.com/Nudua/programutvikling/blob/master/uke1/map.md) #

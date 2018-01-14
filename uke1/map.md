@@ -1,4 +1,4 @@
-# Tor's uoffisielle ukesoppgaver for Programutvikling (HioA/OsloMet)
+# Tor's uoffisielle ukesoppgaver for Programutvikling (HiOA)
 ## Uke 1 - Map\<T\>, HashMap\<T\>
 `Map<K,V>` Hvor 'K' står for Key og 'V' for value. En Map brukes for å hente ut verdier ut i fra en nøkkel.
 
@@ -44,7 +44,6 @@ nameMap.clear();
 
 // Antall elementer i Map'en
 nameMap.size();
-
 
 ```
 Andre nyttige metoder: **isEmpty()**, **replace()** og **stream()**.
@@ -102,7 +101,7 @@ public class AgeMap {
     }
 }
 ```
-Fasit: [AgeMap.java](http://nudua.com/files/NameCollection.java) (Ikke se før du har prøvd)
+Løsningsforslag: [NameSet.java](http://nudua.com/files/NameCollection.java) (Ikke se før du har prøvd!)
 
 
 # Neste Side: Kommer Snart ... #
