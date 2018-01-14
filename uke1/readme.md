@@ -8,6 +8,7 @@
 [3. Map\<T\> og HashMap\<T\>](https://github.com/Nudua/programutvikling/tree/master/uke1/map.md)
 
 Kilder:
+
 [https://www.cs.hioa.no/~evav/uvstoff/intro/coll/collections.html](https://www.cs.hioa.no/~evav/uvstoff/intro/coll/collections.html)
 
 [https://stackoverflow.com/](https://stackoverflow.com/)
