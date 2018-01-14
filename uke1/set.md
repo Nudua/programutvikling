@@ -1,7 +1,9 @@
 # Tor's uoffisielle ukesoppgaver for Programutvikling (HioA/OsloMet)
 ## Uke 1 - Set\<T\>, HashSet\<T\>
 `Set<T>` er en samling av data med en dynamisk størrelse, denne er svært like `List<T>` med enkelte unntak.
+
 Denne klassen er **generisk**, noe som betyr at den kan brukes med alle referansetyper. (klasser/objekter)
+
 I motsetning til List<T> kan et Set **ikke inneholde duplikater** og den kan ikke garantere hvor i settet elementene befinner seg, den støtter derfor ikke indeksering.
 
 ```java

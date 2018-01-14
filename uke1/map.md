@@ -1,6 +1,7 @@
 # Tor's uoffisielle ukesoppgaver for Programutvikling (HioA/OsloMet)
 ## Uke 1 - Map\<T\>, HashMap\<T\>
 `Map<K,V>` Hvor 'K' står for Key og 'V' for value. En Map brukes for å hente ut verdier ut i fra en nøkkel.
+
 Denne klassen er **generisk**, noe som betyr at den kan brukes med alle referansetyper. (klasser/objekter)
 
 ```java
