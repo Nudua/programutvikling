@@ -40,7 +40,7 @@ Fyll inn kode i klassen hvor det mangler.
 
 Det anbefales sterkt å laste ned filen og legge den inn IntelliJ (eller Eclipse).
 
-[NameSet.java](http://nudua.com/files/NameCollection.java) (Lagre som)
+[NameSet.java](https://raw.githubusercontent.com/Nudua/programutvikling/master/uke1/oppgaver/NameSet.java) (Lagre som)
 
 ```java
 public class NameSet {
@@ -83,7 +83,7 @@ public class NameSet {
     }
 }
 ```
-Løsningsforslag: [NameSet.java](http://nudua.com/files/NameCollection.java) (Ikke se før du har prøvd!)
+Løsningsforslag: [NameSet.java](https://raw.githubusercontent.com/Nudua/programutvikling/master/uke1/fasit/NameSet.java) (Ikke se før du har prøvd!)
 
 
 # [Neste Side: Map](https://github.com/Nudua/programutvikling/blob/master/uke1/map.md) #

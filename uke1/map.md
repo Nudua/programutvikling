@@ -49,12 +49,15 @@ nameMap.size();
 Andre nyttige metoder: **isEmpty()**, **replace()** og **stream()**.
 
 Tips: Bruk **Integer** når du skal bruke **int**. **Float** for **float**, **Double** for **double** osv.
+
 *Dette er fordi generiske klasser ikke støtter primitive datatyper direkte.*
 
 ## Oppgaver
 Fyll inn kode i klassen hvor det mangler.
+
 Det anbefales sterkt å laste ned filen og legge den inn IntelliJ (eller Eclipse).
-[AgeMap.java](http://nudua.com/files/AgeMap.java) (Lagre som)
+
+[AgeMap.java](https://raw.githubusercontent.com/Nudua/programutvikling/master/uke1/oppgaver/AgeMap.java) (Lagre som)
 
 ```java
 public class AgeMap {
@@ -101,7 +104,7 @@ public class AgeMap {
     }
 }
 ```
-Løsningsforslag: [NameSet.java](http://nudua.com/files/NameCollection.java) (Ikke se før du har prøvd!)
+Løsningsforslag: [AgeMap.java](https://raw.githubusercontent.com/Nudua/programutvikling/master/uke1/fasit/AgeMap.java) (Ikke se før du har prøvd!)
 
 
 # Neste Side: Kommer Snart ... #

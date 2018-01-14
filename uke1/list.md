@@ -58,8 +58,10 @@ Tips: Bruk **Integer** når du skal bruke **int**. **Float** for **float**, **Do
 
 ## Oppgaver
 Fyll inn kode i klassen NameCollection hvor det mangler.
+
 Det anbefales sterkt å laste ned filen og legge den inn IntelliJ (eller Eclipse).
-[NameCollection.java](http://nudua.com/files/NameCollection.java) (Lagre som)
+
+[NameCollection.java](https://raw.githubusercontent.com/Nudua/programutvikling/master/uke1/oppgaver/NameCollection.java) (Lagre som)
 
 ```java
 public class NameCollection {
@@ -136,7 +138,7 @@ public class NameCollection {
 
 }
 ```
-Løsningsforslag: [NameSet.java](http://nudua.com/files/NameCollection.java) (Ikke se før du har prøvd!)
+Løsningsforslag: [NameCollection.java](https://raw.githubusercontent.com/Nudua/programutvikling/master/uke1/fasit/NameCollection.java) (Ikke se før du har prøvd!)
 
 
 # [Neste Side: Set](https://github.com/Nudua/programutvikling/blob/master/uke1/set.md) #
