@@ -52,7 +52,7 @@ Tips: Bruk **Integer** når du skal bruke **int**. **Float** for **float**, **Do
 *Dette er fordi generiske klasser ikke støtter primitive datatyper direkte.*
 
 ## Oppgaver
-Fyll inn kode i klassen NameSet hvor det mangler.
+Fyll inn kode i klassen hvor det mangler.
 Det anbefales sterkt å laste ned filen og legge den inn IntelliJ (eller Eclipse).
 [AgeMap.java](http://nudua.com/files/AgeMap.java) (Lagre som)
 

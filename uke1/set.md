@@ -22,7 +22,7 @@ boolean wasAdded = floatSet.add(f);
 wasAdded = floatSet.add(f);
 // wasAdded = false
 
-// Vi kan heller ikke akessere et set via Indekser som vi kan som en List<T>
+// Vi kan heller ikke aksessere et set via Indekser som vi kan som en List<T>
 // Derfor finnes ikke metodene get(), set(), indexOf() osv.
 
 ```
@@ -32,7 +32,7 @@ Tips: Bruk **Integer** når du skal bruke **int**. **Float** for **float**, **Do
 *Dette er fordi generiske klasser ikke støtter primitive datatyper direkte.*
 
 ## Oppgaver
-Fyll inn kode i klassen NameSet hvor det mangler.
+Fyll inn kode i klassen hvor det mangler.
 Det anbefales sterkt å laste ned filen og legge den inn IntelliJ (eller Eclipse).
 [NameSet.java](http://nudua.com/files/NameCollection.java) (Lagre som)
 
