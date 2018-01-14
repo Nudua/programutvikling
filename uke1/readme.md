@@ -9,4 +9,5 @@
 
 Kilder:
 [https://www.cs.hioa.no/~evav/uvstoff/intro/coll/collections.html](https://www.cs.hioa.no/~evav/uvstoff/intro/coll/collections.html)
+
 [https://stackoverflow.com/](https://stackoverflow.com/)
