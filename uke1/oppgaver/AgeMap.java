@@ -1,5 +1,3 @@
-package com.nudua.uke1.oppgaver;
-
 import java.util.Map;
 
 public class AgeMap {

@@ -1,5 +1,3 @@
-package com.nudua.uke1.oppgaver;
-
 import javafx.collections.transformation.SortedList;
 
 import java.util.ArrayList;
