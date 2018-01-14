@@ -6,7 +6,7 @@
 
 [2. Set\<T\> og HashSet\<T\>](https://github.com/Nudua/programutvikling/tree/master/uke1/set.md)
 
-[3. Map\<T\> og HashMap\<T\>](https://github.com/Nudua/programutvikling/tree/master/uke1/other.md)
+[3. Map\<T\> og HashMap\<T\>](https://github.com/Nudua/programutvikling/tree/master/uke1/map.md)
 
 ## Uke 2 - Filebehandling
 
