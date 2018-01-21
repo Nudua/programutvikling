@@ -8,6 +8,6 @@
 
 [3. Map\<T\> og HashMap\<T\>](https://github.com/Nudua/programutvikling/tree/master/uke1/map.md)
 
-## Uke 2 - Filebehandling
+## Uke 2 - Filbehandling
 
 kommer snart...
