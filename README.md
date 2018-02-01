@@ -8,6 +8,8 @@
 
 [3. Map\<T\> og HashMap\<T\>](https://github.com/Nudua/programutvikling/tree/master/uke1/map.md)
 
-## Uke 2 - Filbehandling
+## Uke 2 - Filbehandling og Exceptions
 
-kommer snart...
+[1. Exceptions (Unntakshåndtering)](https://github.com/Nudua/programutvikling/tree/master/uke2/exception.md)
+
+...
