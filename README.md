@@ -12,4 +12,6 @@
 
 [1. Exceptions (Unntakshåndtering)](https://github.com/Nudua/programutvikling/tree/master/uke2/exception.md)
 
+[2. Filbehandling (java.nio)](https://github.com/Nudua/programutvikling/tree/master/uke2/filbehandling.md)
+
 ...

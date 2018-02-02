@@ -1,7 +1,7 @@
 # Tor's uoffisielle ukesoppgaver for Programutvikling (OsloMet)
 ## Uke 2 - Exceptions / Checked og Unchecked
 `Checked Exception` en *eksepsjonell handling* (exception) som programmet **forventer** at kan skje og kan håndtere og fortsette programmet etterpå.  
-I Java er det et **krav** at alle slike expections **må fanges opp**.
+I Java er det et **krav** at alle slike exceptions **må fanges opp**.
 
 ```java
 public static void ReadFirstLine() {
