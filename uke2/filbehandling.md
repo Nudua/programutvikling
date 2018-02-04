@@ -59,7 +59,7 @@ java.nio.Files klassen inneholder mange nyttige statiske metoder som gjør ting 
 // relativ eller unix stil path
 Path src = Paths.get("home/name/file.txt");
 // Windows
-src = Paths.get("C:\\MinMappe\\file.txt");
+Path src = Paths.get("C:\\MinMappe\\file.txt");
 
 boolean finnes = Files.exists(src);
 
@@ -69,7 +69,10 @@ long fileSize = Files.size(src));
 // Kopier, kan også kopieres direkte inn i en OutputStream
 Files.copy(src, Paths.get("src/ny/file.txt"));
 
+// Flytt
 Files.move(src, Paths.get("src/ny/file.txt"));
+
+// Slett
 Files.delete(src);
         
 // Felles fil/mappe egenskaper
@@ -80,7 +83,49 @@ DosFileAttributes DOSattr = Files.readAttributes(src, DosFileAttributes.class);
 PosixFileAttributes unixAttr = Files.readAttributes(src, PosixFileAttributes.class);
 
 ```
-Andre nyttige metoder: `Files.getFileStore()`, `Files.getOwner()`, `Files.createFile()`, `Files.deleteIfExists()`
+Andre nyttige metoder: `Files.getFileStore`, `Files.getOwner`, `Files.createFile`, `Files.deleteIfExists`, `Files.lines`, `Files.createDirectory`
 
 ## Oppgaver
-Kommer...
+Fyll inn kode i klassen FileUtils hvor det mangler.  
+Det anbefales sterkt å laste ned filen og legge den inn IntelliJ (eller Eclipse).  
+[FileUtils.java](https://raw.githubusercontent.com/Nudua/programutvikling/master/uke2/oppgaver/FileUtils.java) (Lagre som)
+
+
+```Java
+public class FileUtils {
+    
+    // Denne statiske metoden skal returnere en boolean som indikerer om begge filene finnes på disken.
+    public static void bothExists(String file1, String file2) {
+        
+    }
+
+    // Bruk try-with-resources og opprett en ny OutputSream som skriver 'data' til den.
+    public static void writeBytes(String fileName, byte[] data) {
+        
+    }
+
+    // Kopier en fil fra 'src' til 'dest', legg til en try-catch som fanger opp NoSuchFileException og IOException.
+    public static void copy(String src, Path dest) {
+        
+    }
+
+    // Flytt en fil fra 'src' til 'dest', men kast exceptionen ut av metoden istedet for en try-catch
+    public static void move(String src, Path dest) {
+        
+    }
+
+    // Sjekk at mappen 'directory' eksisterer, hvis den ikke fins, opprett den.
+    public static void createDirectoryIfNotExists(String directory) {
+        
+    }
+
+    // Denne statiske metoden skal lese tekstdokumentet til 'fileName'
+    // Og printe ut hvor mange linjer som er lik verdien i 'value' variabelen.
+    public static void lineCount(String fileName, String value) {
+        
+    }
+}
+```
+Løsningsforslag: [ExceptionalClass.java](https://raw.githubusercontent.com/Nudua/programutvikling/master/uke2/fasit/ExceptionalClass.java) 
+
+# Neste Side: ...
