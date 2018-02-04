@@ -1,6 +1,5 @@
 # Tor's uoffisielle ukesoppgaver for Programutvikling (OsloMet)
 ## Uke 2 - Filbehandling med java.nio
-`java.nio`
 
 ```java
 // Som sett på forrige side kan vi fange opp Exceptions med en try, catch statement
@@ -126,6 +125,6 @@ public class FileUtils {
     }
 }
 ```
-Løsningsforslag: [ExceptionalClass.java](https://raw.githubusercontent.com/Nudua/programutvikling/master/uke2/fasit/ExceptionalClass.java) 
+Løsningsforslag: [ExceptionalClass.java](https://raw.githubusercontent.com/Nudua/programutvikling/master/uke2/fasit/FileUtils.java) 
 
 # Neste Side: ...
