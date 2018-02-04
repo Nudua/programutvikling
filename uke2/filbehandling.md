@@ -125,6 +125,6 @@ public class FileUtils {
     }
 }
 ```
-Løsningsforslag: [ExceptionalClass.java](https://raw.githubusercontent.com/Nudua/programutvikling/master/uke2/fasit/FileUtils.java) 
+Løsningsforslag: [FileUtils.java](https://raw.githubusercontent.com/Nudua/programutvikling/master/uke2/fasit/FileUtils.java) 
 
 # Neste Side: ...
